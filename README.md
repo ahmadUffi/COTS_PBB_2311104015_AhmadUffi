@@ -116,4 +116,4 @@ dan anon key) di `lib/config/supabase_config.dart`.
 
 ---
 
-## Create by Ahmad Uffi COTS TUBES PBB
+## Created by Ahmad Uffi COTS TUBES PBB
